@@ -8,12 +8,10 @@ export default function Cifras() {
             <li className="cifra rv">
                 <b>+<CountUp to={148}/></b>
                 <span>perros y gatos que viven hoy en el albergue</span>
-                <small>Dato de mayo de 2026</small>
             </li>
             <li className="cifra rv">
                 <b>2 meses a 15 años</b>
                 <span>es la edad de los perros que esperan un hogar</span>
-                <small>Dato de junio de 2024</small>
             </li>
             <li className="cifra rv">
                 <b>Sacrificio cero</b>
